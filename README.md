@@ -45,7 +45,7 @@ df=df.fillna(0)
 Then I wanted to save the file into a clean csv file to save it for later work on it. To do so
 ```python
 import pyexcel as pe
-sheet = pyexcel.get_sheet(adict=food1)
+sheet = pyexcel.get_sheet(adict=food)
 sheet.save_as("output.csv")
 ```
 

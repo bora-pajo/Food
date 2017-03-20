@@ -4,9 +4,11 @@ This dataset is a merged dataset from two previous datasets that include student
 and other parameters, and a second dataset (taken from the exact same participants) entirely on food preferences of them and their parents. 
 
 ##### Libraries used
-''' numpy
 
-
+```
+numpy
 pandas
 matplotlib
-ipython display '''
+ipython display 
+```
+

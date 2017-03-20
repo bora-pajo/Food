@@ -5,6 +5,8 @@ and other parameters, and a second dataset (taken from the exact same participan
 
 ##### Libraries used
 ''' numpy
+
+
 pandas
 matplotlib
-ipython display
+ipython display '''

@@ -9,5 +9,18 @@ and other parameters, and a second dataset (taken from the exact same participan
 import numpy
 import pandas as pd as np
 import matplotlib.pyplot as plt
+import pyexcel as pe
 ```
+
+#### Becoming familiar with the dataset
+Once the dataset is uploaded we start getting an understanding of its shape. How many variables are in the dataset? How many cases have been collected?
+
+``` python
+
+food = pd.read_csv('food.csv')
+cases = len(food)
+print cases
+food.shape
+```
+
 

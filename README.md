@@ -23,4 +23,9 @@ print cases
 food.shape
 ```
 
+Then I turned every variable into a numerical variable if they had specific answer choices. One example of how to do that is the following:
+
+``` python
+food['parents_cook'] = food['parents_cook'].map({'Almost Everyday':1,'2-3 times a week':2, '1-2 times a week':3, 'On holidays only':4, 'Never':5})
+```
 

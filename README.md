@@ -218,6 +218,13 @@ sheet.save_as("output.csv")
 
 Additional files added on some basic statistics and visualizations.
 
+##### Notes
+This survey will be repeated next fall, so there are a couple of considerations on what to ask and re-design.  There needs to be additional quantitative variables and some ordinal ones.  There also needs to be some clear cut (theoretical threads) that we being followed to see what can we explore further. We can't go about this blindly.  
+
+####### Findings
+Some of the things that were found are:
+gender and hours of sleep are associated 
+
 
 
 
